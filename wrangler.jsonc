@@ -1,0 +1,10 @@
+{
+  "name": "does-not-exist-test",
+  "main": "./src/index.js",
+  "compatibility_date": "2025-03-14",
+  "find_additional_modules": true,
+  "no_bundle": true,
+  "alias": {
+    "does-not-exist": "./does-exist.js"
+  }
+}

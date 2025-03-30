@@ -5,6 +5,6 @@
   "find_additional_modules": true,
   "no_bundle": true,
   "alias": {
-    "does-not-exist": "./does-exist.js"
+    "does-not-exist": "./src/does-exist.js"
   }
 }
